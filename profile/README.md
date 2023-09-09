@@ -4,7 +4,7 @@
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./.github/cone-logo-dark.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./.github/cone-logo-light.svg">
-      <img alt="Cone Development" width="140" src="./.github/cone-logo-dark.svg">
+      <img alt="Cone Development" width="120" src="./.github/cone-logo-dark.svg">
     </picture>
     <br>
   </a>
