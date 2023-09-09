@@ -10,7 +10,7 @@
   </a>
 </p>
 
-### 👋 Hello, We are Cone
+### 👋 Hello, we are Cone
 
 We compose websites and web applications from small to large scale in WordPress and Laravel.
 
