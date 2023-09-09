@@ -1,4 +1,4 @@
-<p>
+<h1>
   <a href="https://conedevelopment.com/">
     <br>
     <picture>
@@ -8,9 +8,9 @@
     </picture>
     <br>
   </a>
-</p>
+</h1>
 
-### Hello 👋, We are Cone
+## Hello 👋, We are Cone
 
 We compose websites and web applications from small to large scale in WordPress and Laravel.
 
