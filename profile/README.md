@@ -21,3 +21,5 @@
 📫 Get in Touch: Need a hand with a project or just want to say hello? Drop us a line at [hello@conedevelopment.com](mailto:hello@conedevelopment.com).com. We'd love to hear from you!
 
 Visit us at [conedevelopment.com](https://conedevelopment.com) to learn more about us and our work.
+
+![Visitor counter](https://szepe.net/counter/conedevelopment.php)
