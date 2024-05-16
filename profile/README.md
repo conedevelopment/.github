@@ -14,12 +14,7 @@
 
 We are experts in developing custom WordPress websites, WooCommerce stores, and scalable Laravel applications.
 
-🌲 **Our Commitment:** We're a passionate two-person web development studio dedicated to producing sustainable, future-proof code for the web. Whether your project is small or large, we ensure it's built to last. Our core values and deliverables are:
-
-- simple and clean code,
-- reliability,
-- clear communication,
-- two-way partnership.
+🌲 **Our Commitment:** We're a passionate two-person web development studio dedicated to producing sustainable, future-proof code for the web. Whether your project is small or large, we ensure it's built to last. Our core values and deliverables are: simple and clean code, reliability, clear communication, two-way partnership.
 
 **</> WordPress:** We code truly custom WP themes and solutions and develop custom plugins and WooCommerce integrations.
 
