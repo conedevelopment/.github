@@ -16,7 +16,7 @@ We are experts in developing custom WordPress websites, WooCommerce stores, and 
 
 🌲 **Our Commitment:** We're a passionate two-person web development studio dedicated to producing sustainable, future-proof code for the web. Whether your project is small or large, we ensure it's built to last. Our core values and deliverables are: simple and clean code, reliability, clear communication, two-way partnership.
 
-**</> WordPress:** We code truly custom WP themes and solutions and develop custom plugins and WooCommerce integrations.
+**</> WordPress:** We code truly custom WP themes, develop custom plugins and WooCommerce integrations.
 
 🌱 **Open-source:** We create and manage multiple open-source projects. Check them out: [Root](https://github.com/conedevelopment/root), [Bazar](https://github.com/conedevelopment/bazar), and [Spruce CSS](https://github.com/conedevelopment/sprucecss).
 
