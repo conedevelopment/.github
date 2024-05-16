@@ -9,9 +9,10 @@
     <br>
   </a>
 </p>
+
 ### Hello, we are Cone! 👋
 
-We are experts in developing custom WordPress websites, WooCommerce stores, and scalable Laravel applications .
+We are experts in developing custom WordPress websites, WooCommerce stores, and scalable Laravel applications.
 
 🌲 **Our Commitment:** We're a passionate two-person web development studio dedicated to producing sustainable, future-proof code for the web. Whether your project is small or large, we ensure it's built to last. Our core values and deliverables are:
 
@@ -28,4 +29,4 @@ We are experts in developing custom WordPress websites, WooCommerce stores, and 
 
 Visit us at [conedevelopment.com](https://conedevelopment.com) to learn more about us and our work.
 
-<img alt="European Union, Hungary" width="40" src="https://conedevelopment.com/img/eu.svg">
+<img alt="European Union, Hungary" width="35" src="https://conedevelopment.com/img/eu.svg">
