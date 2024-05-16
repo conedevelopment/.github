@@ -9,15 +9,23 @@
     <br>
   </a>
 </p>
+### Hello, we are Cone! 👋
 
-### Greetings from Cone! 👋
+We are experts in developing custom WordPress websites, WooCommerce stores, and scalable Laravel applications .
 
-**We compose websites and web applications from small to large scale in WordPress and Laravel.**
+🌲 **Our Commitment:** We're a passionate two-person web development studio dedicated to producing sustainable, future-proof code for the web. Whether your project is small or large, we ensure it's built to last. Our core values and deliverables are:
 
-🌲 Our Commitment: We're a passionate two-person web development studio dedicated to producing sustainable, future-proof code for the web. Whether your project is small or large, we ensure it's built to last.
+- simple and clean code,
+- reliability,
+- clear communication,
+- two-way partnership.
 
-🌱 Open-Source Advocates: We're passionate about open-source development. Check out our projects: [Root](https://github.com/conedevelopment/root), [Bazar](https://github.com/conedevelopment/bazar), and [Spruce CSS](https://github.com/conedevelopment/sprucecss).
+**</> WordPress:** We code truly custom WP themes and solutions and develop custom plugins and WooCommerce integrations.
 
-📫 Get in Touch: Need a hand with a project or just want to say hello? Drop us a line at [hello@conedevelopment.com](mailto:hello@conedevelopment.com).com. We'd love to hear from you!
+🌱 **Open-source:** We create and manage multiple open-source projects. Check them out: [Root](https://github.com/conedevelopment/root), [Bazar](https://github.com/conedevelopment/bazar), and [Spruce CSS](https://github.com/conedevelopment/sprucecss).
+
+📫 **Get in Touch:** Need help with a project, want to hire a reliable, long-term subcontractor, or just say hello? Email us at [hello@conedevelopment.com](mailto:hello@conedevelopment.com).com. We'd love to hear from you!
 
 Visit us at [conedevelopment.com](https://conedevelopment.com) to learn more about us and our work.
+
+<img alt="European Union, Hungary" width="40" src="https://conedevelopment.com/img/eu.svg">
