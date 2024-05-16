@@ -22,4 +22,4 @@
 
 Visit us at [conedevelopment.com](https://conedevelopment.com) to learn more about us and our work.
 
-<img alt="European Union, Hungary" width="35" src="https://conedevelopment.com/img/eu.svg">
+<img alt="European Union, Hungary" width="35" style="border-radius: 0.5rem;" src="https://conedevelopment.com/img/eu.svg">
